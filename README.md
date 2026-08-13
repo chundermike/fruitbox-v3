@@ -25,7 +25,7 @@ Installation is as follows:
 4. Ignore any Notices about <i>"Download is performed unsandboxed..."</i>
 5. fruitbox is now installed and can be run from a command line by typing <code>fruitbox</code>
 
-Note that fruitbox, its fruitbox.ini file, release notes, user guide and the sample skins are stored in <code>/opt/fruitbox/</code><br>
+Note that fruitbox, its fruitbox.ini file, release notes, user guide and the sample skins are stored in <code>/opt/fruitbox/</code><br><br>
 By default, fruitbox looks for your music files in the <code>/home/pi/Music</code> directory. If they are somewhere else, you will need to edit the <code>/opt/fruitbox/fruitbox.ini</code> file and change the <code>MusicPath</code> setting.<br><br>
 <b>Windows (10/11, 64-bit):</b>
 1. Download and run the <code>fruitbox_3.00.00_win64_setup.exe</code> file
