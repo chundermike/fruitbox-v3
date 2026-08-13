@@ -21,8 +21,7 @@ Installation is as follows:
 1. Ensure latest version of the 64-bit Trixie Desktop OS is installed
 2. Download the <code>fruitbox_3.00.00_arm64_portable.deb</code> file to the Desktop
 3. Open a command line terminal and type:<br>
-    <code>cd ~/Desktop</code><br>
-    <code>sudo apt install ./fruitbox_3.00.00_arm64_portable.deb</code><br>
+    <code>sudo apt install ~/Desktop/fruitbox_3.00.00_arm64_portable.deb</code><br>
 4. Ignore any Notices about <i>"Download is performed unsandboxed..."</i>
 5. fruitbox is now installed and can be run from a command line by typing <code>fruitbox</code>
 
