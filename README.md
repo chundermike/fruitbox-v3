@@ -26,7 +26,7 @@ Installation is as follows:
 4. Ignore any Notices about <i>"Download is performed unsandboxed..."</i>
 5. fruitbox is now installed and can be run from a command line by typing <code>fruitbox</code>
 
-Note that fruitbox, its fruitbox.ini file and the sample skins are stored in <code>/opt/fruitbox/</code><br>
+Note that fruitbox, its fruitbox.ini file, release notes, user guide and the sample skins are stored in <code>/opt/fruitbox/</code><br>
 
 <b>Windows (10/11, 64-bit):</b>
 1. Download and run the <code>fruitbox_3.00.00_win64_setup.exe</code> file
