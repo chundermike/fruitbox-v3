@@ -19,20 +19,20 @@ Installation is as follows:
 
 <b>Raspberry Pi (version 4 or 5 recommended):</b>
 1. Ensure latest version of the 64-bit Trixie Desktop OS is installed
-2. Download the <code>fruitbox_3.00.00_arm64_portable.deb</code> file and save it to the Desktop
+2. Download the <code>fruitbox_3.01.00_arm64_portable.deb</code> file and save it to the Desktop
 3. Open a command line terminal and type:<br>
-    <code>sudo apt install ~/Desktop/fruitbox_3.00.00_arm64_portable.deb</code><br>
+    <code>sudo apt install ~/Desktop/fruitbox_3.01.00_arm64_portable.deb</code><br>
 4. Ignore any Notices about <i>"Download is performed unsandboxed..."</i>
 5. fruitbox is now installed and can be run from a command line by typing <code>fruitbox</code>
 
-Note that fruitbox, its fruitbox.ini file, release notes, user guide and the sample skins are stored in <code>/opt/fruitbox/</code><br><br>
-By default, fruitbox looks for your music files in the <code>/home/pi/Music</code> directory. If they are somewhere else, you will need to edit the <code>/opt/fruitbox/fruitbox.ini</code> file and change the <code>MusicPath</code> setting.<br><br>
+Note that fruitbox, its fruitbox.ini file, user guide and the sample skins are stored in <code>/opt/fruitbox/</code><br><br>
+By default, fruitbox looks for your music files in your Music directory <code>$HOME/Music</code>. If they are somewhere else, you will need to edit the <code>/opt/fruitbox/fruitbox.ini</code> file and change the <code>MusicPath</code> setting.<br><br>
 <b>Windows (10/11, 64-bit):</b>
-1. Download and run the <code>fruitbox_3.00.00_win64_setup.exe</code> file
+1. Download and run the <code>fruitbox_3.01.00_win64_setup.exe</code> file
 2. Follow the installation instructions
 3. Run fruitbox using the desktop shortcut
 
+<br>The installers come with four sample skins, but more can be added, and fruitbox v2 skins can be used with v3.  Please find v2 skins here: https://github.com/chundermike/rpi-fruitbox-v2/tree/main/skins
+<br>Copy them into the existing skins directory (pi: /opt/fruitbox/skins, windows: <installation directory>/skins)
 
-<br>V3 is largely compatible with V2 skins, but you may find some tweaks are required, notably for font sizes
-
-Let's Rock!
+<br>Let's Rock!

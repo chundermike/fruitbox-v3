@@ -1,0 +1,28 @@
+-----------------------------------
+Version 3.01.00
+- Bug fix to prevent multiple window minimised on startup
+- Fixed SpectrumAudioSyncOffset tick range and increased accuracy (of all time parameters) to 0.01 seconds
+- Added new title strip animations (Horizontal and Vertical Carousel)
+- Cover Art now allowed in singles title strips (new TitleStripArtwork* parameters in ini [general])
+- Added ability to use ${NOW_PLAYING_*} variables with ArtworkFilename to target artwork .jpg files named with now playing details
+- Added XAxisOffset, YAxisOffset and ZAxisOffset to display objects and title strips to enhance Angle parameter
+- Added [title strip] MoveLeftDelay and MoveRightDelay parameters
+- Enhanced [title strip] move delay parameters to allow title strips move timing relative to other (previously defined) title strips
+- [title strip] Position is now a dynamic parameter
+- Added status ${NOW_PLAYING_FILENAME}
+- Added Perspective parameter for display objects to allow control over 3d depth scale
+- Added Initial parameter for [status] display objects
+- Added skin cfg [general] DisableTitleStripWrap
+- Fixed Joystick mode selection and bitmap rendering bugs
+- Fixed mouse operation on skin chooser
+- Fixed button mapping restoration when exiting on screen menus
+- Fixed on screen menu button highlighting and added ini [general] MenuHighlightColour
+- Fixed on-screen keyboard button highlighting and enter press
+- Reinstated ReplayGain
+- Changed Pi debian package to specify ini file MusicPath as $HOME/Music rather than /home/pi/Music
+- Fixed "Start in" directory for installed shortcuts (Windows installer)
+- Removed release notes from install packages and put them here in Github
+
+-----------------------------------
+Version 3.00.00
+- Initial release
