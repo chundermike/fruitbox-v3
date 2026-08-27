@@ -1,4 +1,9 @@
 -----------------------------------
+Version 3.01.01
+- Extended [status] Video to include volume and loop (now the same as [status] Audio)
+- Removed [status] LoopVideo
+
+-----------------------------------
 Version 3.01.00
 - Bug fix to prevent multiple window minimised on startup
 - Fixed SpectrumAudioSyncOffset tick range and increased accuracy (of all time parameters) to 0.01 seconds
