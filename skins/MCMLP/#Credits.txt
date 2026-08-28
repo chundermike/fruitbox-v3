@@ -1,0 +1,6 @@
+An album based skin by Dermodyne (aka DermBrian)
+
+Thanks to Jay's Arcade for his AlbumPlayer skin which was the
+  base used to gain an understanding of processes involved
+  in displaying and playing albums in Fruitbox 2.0.
+  

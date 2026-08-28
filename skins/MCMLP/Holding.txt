@@ -1,0 +1,115 @@
+Holding
+
+#Color Organ Red   (Spectrum Band 1, the lowest frequencies processed)
+[bitmap]
+Position = 689 36
+Size = 544 541
+File = R1.png
+Tint = 255 255 255 0[255 ${SPECTRUM_BAND} 1]
+
+
+[bitmap]
+#Color Organ Purple Layer secondary
+Position = 689 36
+Size = 544 541
+File = P1.png
+Tint = 255 255 255 0 [150 ${SPECTRUM_BAND} 2]
+
+[bitmap]
+#Color Organ Purple Layer primary
+Position = 689 36
+Size = 544 541
+File = P1.png
+Tint = 255 255 255 0 [300 ${SPECTRUM_BAND} 3]
+
+
+[bitmap] 
+#Color Organ Green Layer secondary
+Position = 689 36
+Size = 544 541
+File = G1.png
+Tint = 255 255 255 0 [100 ${SPECTRUM_BAND} 4]
+
+
+[bitmap] 
+#Color Organ Green Layer Primary
+Position = 689 36
+Size = 544 541
+File = G1.png
+Tint = 255 255 255 0 [255 ${SPECTRUM_BAND} 5]
+
+[bitmap] 
+#Color Organ Green Layer Secondary
+Position = 689 36
+Size = 544 541
+File = G1.png
+Tint = 255 255 255 0 [100 ${SPECTRUM_BAND} 6]
+
+
+
+
+[bitmap]
+#Color Organ Yellow Layer secondary
+Position = 689 36
+Size = 544 541
+File = Y1.png
+Tint = 255 255 255 0 [100 ${SPECTRUM_BAND} 7]
+
+[bitmap]
+#Color Organ Yellow Layer primary
+Position = 689 36
+Size = 544 541
+File = Y1.png
+Tint = 255 255 255 0 [255 ${SPECTRUM_BAND} 8]
+
+
+[bitmap]
+#Color Organ Yellow Layer secondary
+Position = 689 36
+Size = 544 541
+File = Y1.png
+Tint = 255 255 255 0 [100 ${SPECTRUM_BAND} 9]
+
+
+[bitmap]
+#Color Organ Blue Layer secondary
+Position = 689 36
+Size = 544 541
+File = B1.png
+Tint = 255 255 255 0 [100 ${SPECTRUM_BAND} 10]
+
+[bitmap]
+#Color Organ Blue Layer primary
+Position = 689 36
+Size = 544 541
+File = B1.png
+Tint = 255 255 255 0 [255 ${SPECTRUM_BAND} 11]
+
+[bitmap]
+#Color Organ Blue Layer  secondary
+Position = 689 36
+Size = 544 541
+File = B1.png
+Tint = 255 255 255 0 [100 ${SPECTRUM_BAND} 12]
+
+[bitmap]
+#Color Organ White Middle  (Just to add something different)
+Position = 689 36
+Size = 544 541
+File = W1.png
+Tint = 255 255 255 0 [150 ${SPECTRUM_BAND} 13]
+
+[bitmap]
+#Color Organ White Middle  (Just to add something different)
+Position = 689 36
+Size = 544 541
+File = W1.png
+Tint = 255 255 255 0 [230 ${SPECTRUM_BAND} 14]
+
+[bitmap]
+#Color Organ White Middle  (Just to add something different)
+Position = 689 36
+Size = 544 541
+File = W1.png
+Tint = 255 255 255 0 [150 ${SPECTRUM_BAND} 15]
+
