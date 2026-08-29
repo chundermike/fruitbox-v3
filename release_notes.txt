@@ -1,4 +1,15 @@
 -----------------------------------
+Version 3.02.00
+- Added Skins Downloader to on-screen main menu
+- Fixed song video rendering across multiple displays
+- Fixed status video looping
+- Fixed empty title strip rendering
+- Fixed ${NOW_PLAYING_ALB_TIME_REMAINING} (song skip in AllTracks AlbumModeType)
+- Fixed ${IF_STEREO}
+- Added [general] HideInvalidStripCodes
+- Improved internal accuracy of dynamic parameter values
+
+-----------------------------------
 Version 3.01.01
 - Extended [status] Video to include volume and loop (now the same as [status] Audio)
 - Removed [status] LoopVideo
