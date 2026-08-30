@@ -19,9 +19,9 @@ Installation is as follows:
 
 <b>Raspberry Pi (version 4 or 5 recommended):</b>
 1. Ensure latest version of the 64-bit Trixie Desktop OS is installed
-2. Download the <code>fruitbox_3.02.00_arm64_portable.deb</code> file and save it to the Desktop
+2. Download the <code>fruitbox_3.02.01_arm64_portable.deb</code> file and save it to the Desktop
 3. Open a command line terminal and type:<br>
-    <code>sudo apt install ~/Desktop/fruitbox_3.02.00_arm64_portable.deb</code><br>
+    <code>sudo apt install ~/Desktop/fruitbox_3.02.01_arm64_portable.deb</code><br>
 4. Ignore any Notices about <i>"Download is performed unsandboxed..."</i>
 5. fruitbox is now installed and can be run from a command line by typing <code>fruitbox</code>
 
@@ -30,7 +30,7 @@ Installation is as follows:
 Note that fruitbox, its fruitbox.ini file, user guide and the sample skins are stored in <code>/opt/fruitbox/</code><br><br>
 By default, fruitbox looks for your music files in your Music directory <code>$HOME/Music</code>. If they are somewhere else, you will need to edit the <code>/opt/fruitbox/fruitbox.ini</code> file and change the <code>MusicPath</code> setting.<br><br>
 <b>Windows (10/11, 64-bit):</b>
-1. Download and run the <code>fruitbox_3.02.00_win64_setup.exe</code> file
+1. Download and run the <code>fruitbox_3.02.01_win64_setup.exe</code> file
 2. Follow the installation instructions
 3. Run fruitbox using the desktop shortcut
 
