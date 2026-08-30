@@ -1,4 +1,8 @@
 -----------------------------------
+Version 3.02.01
+- Fixed left/right unmapping after using skin chooser 
+
+-----------------------------------
 Version 3.02.00
 - Added Skins Downloader to on-screen main menu
 - Fixed song video rendering across multiple displays
