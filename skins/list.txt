@@ -12,4 +12,3 @@ SB-M100
 Seeburg
 SmallTrivue
 Wurly
-Wurly2

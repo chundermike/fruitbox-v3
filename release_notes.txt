@@ -1,4 +1,8 @@
 -----------------------------------
+Version 3.02.02
+- allow user to download skins individually
+
+-----------------------------------
 Version 3.02.01
 - Fixed left/right unmapping after using skin chooser 
 
