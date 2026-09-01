@@ -6,9 +6,9 @@ Some notes on this album-only skin.  I am thrilled that fruitbox now supports di
 
 3) For variety, you can load up a few albums and then use SHUFFLE QUEUE (whatever key is assigned on your jukebox) to make a nice mix.
 
-4) I've included a built-in screensaver, with a few photos and artworks that kicks in after some time when there is no record playing and the queue is empty.  It will select random images from images that you place in the screensaver folder.  If you want only one image....put only one picture in there.  If you don't want any screensaver, comment out (put a # in front of...) the last six lines of the fruitbox.cfg file.
+4) I've included a built-in screensaver, with a few photos and artworks that kicks in after some time when there is no record playing, the queue is empty, and no buttons have been pressed for awhile.  It will select random images from images that you place in the screensaver folder.  If you want only one image....put only one picture in there.  If you don't want any screensaver, comment out (put a # in front of...) the last six lines of the fruitbox.cfg file.
 
-5) In freeplay mode, it does not do the record drop.  I like it, so I have it do it at the start of every song when I play an album.  If you want to not have the record drop at all, find and comment out (put a # in front of...) the following lines of the fruitbox.cfg file:
+5) I like the record drop.  If you want to not have the record drop at all, find and comment out (put a # in front of...) the following lines of the fruitbox.cfg file:
 
    [status] 				# Load Record Video
    Video = LPchanger.mp4 100
@@ -16,5 +16,7 @@ Some notes on this album-only skin.  I am thrilled that fruitbox now supports di
    Size = 590 329
    Contents = status_load.txt
 
-Future plans:  I may have the tonearm move across the record, tied to the time remaining in the song.  Other than that, I'm pretty satisfied with the look/feel.  Enjoy it if it's in your taste.
+6)  If you don't want the record drop, you can also set SongLoadTime = 0 Seconds in the [general] parameters at the start of the skin.  As it exists, that's at a rather lengthy six secons.  It has to be that long to allow the initial record drop.  Sorry.  
 
+
+Enjoy.  
