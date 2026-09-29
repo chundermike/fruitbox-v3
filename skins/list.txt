@@ -11,4 +11,5 @@ RecordLibrary
 SB-M100
 Seeburg
 SmallTrivue
+VerticalVideo
 Wurly
