@@ -3,6 +3,7 @@ Carousel
 Classic
 FB-M100
 Fallout-1080
+JukeInBar
 LowerDecks
 MCMLP
 MikeTV
