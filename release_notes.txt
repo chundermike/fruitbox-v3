@@ -1,4 +1,12 @@
 -----------------------------------
+Version 3.02.03
+- Corrected skin downloader message with no chooser
+- Fixed typos in userguide for ${*PLAYQUEUE*} descriptions
+- Allowed button presses for screenshot and flags in multicast Rx mode
+- Added more information regarding GPIO pins in userguide
+- new ini parameter [general] ExtractArtistAndTitleFromFilename to enable Artist and Song Title extraction from filename before embedded data search
+
+-----------------------------------
 Version 3.02.02
 - allow user to download skins individually
 
